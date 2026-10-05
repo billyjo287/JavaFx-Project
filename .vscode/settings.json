@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": ["src", "img"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "javafx-sdk-17.0.2/lib/**/*.jar"
+    ]
+}
